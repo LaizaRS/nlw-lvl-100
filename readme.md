@@ -1,5 +1,7 @@
 # NLW e-Sports
 
+Next Level Week
+
 > trinla ignite
 
 ## Foi utilizado
@@ -12,8 +14,6 @@
 -Insomnia
 -Vite
 -tailWind
-
-<<<<<<< HEAD
 
 > site
 > ![preview.](./web/public/preview..png)
