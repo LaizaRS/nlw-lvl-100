@@ -13,6 +13,8 @@
 -Vite
 -tailWind
 
+<<<<<<< HEAD
+
 > site
 > ![preview.](./web/public/preview..png)
 
