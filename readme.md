@@ -14,3 +14,4 @@
 -tailWind
 
 ![preview.](./web/public/preview..png)
+![preview.](./web/public/preview2.png)
