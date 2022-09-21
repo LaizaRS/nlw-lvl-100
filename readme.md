@@ -13,5 +13,8 @@
 -Vite
 -tailWind
 
-![preview.](./web/public/preview..png)
-![preview.](./web/public/preview2.png)
+> site
+> ![preview.](./web/public/preview..png)
+
+> modal
+> ![preview.](./web/public/preview2.png)
